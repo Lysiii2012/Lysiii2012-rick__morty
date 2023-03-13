@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lysiii2012-rick__morty/static/css/main.74b555f5.css",
+    "main.js": "/Lysiii2012-rick__morty/static/js/main.b955109d.js",
+    "static/js/787.f642e1e7.chunk.js": "/Lysiii2012-rick__morty/static/js/787.f642e1e7.chunk.js",
+    "static/media/PngItem.png": "/Lysiii2012-rick__morty/static/media/PngItem.1169ced27a00bfcad56d.png",
+    "index.html": "/Lysiii2012-rick__morty/index.html",
+    "main.74b555f5.css.map": "/Lysiii2012-rick__morty/static/css/main.74b555f5.css.map",
+    "main.b955109d.js.map": "/Lysiii2012-rick__morty/static/js/main.b955109d.js.map",
+    "787.f642e1e7.chunk.js.map": "/Lysiii2012-rick__morty/static/js/787.f642e1e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74b555f5.css",
+    "static/js/main.b955109d.js"
+  ]
+}
